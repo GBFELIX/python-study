@@ -1,0 +1,5 @@
+frase = str(input('digite seu nome'))
+print(frase.upper())
+print(frase.lower())
+print('nome tem ', len(frase) - frase.count(' '), ' letras')
+print(frase.find(" "))

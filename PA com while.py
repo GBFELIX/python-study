@@ -5,5 +5,5 @@ print('{}, '.format(a), end='')
 while a != c + 9 * b:
     a += b
     print('{}, '.format(a), end='')
-
+print('fim da PA')
 
